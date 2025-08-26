@@ -2,3 +2,4 @@ ls
 hostname -I
 echo "hellooo"
 cat file1
+vim f1
