@@ -1,3 +1,4 @@
 ls 
 hostname -I
 echo "hellooo"
+cat file1
